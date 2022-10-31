@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://7x-sgb.anonymous.repository-app.exp.direct",
+  "packagerNgrokUrl": "https://7x-sgb.anonymous.repository-app.exp.direct",
+  "ngrokPid": 29416,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
